@@ -2,7 +2,7 @@
   <img alt="Conscious.ly" src=".github/images/cover.png" width="800px">
 </div>
 <div align="center">
-  <img alt="Conscious.ly in action" src=".github/images/consciously-collage.png" width="800px">
+  <img alt="Conscious.ly in action" src=".github/images/consciously-mobile-collage.png" width="800px">
 </div>
 
 ---
@@ -32,10 +32,10 @@ Future plans for enhancements and development :memo: :
 
 ## Technical
 
-Conscious.ly is a standard Android Application built with [Java 11]() and packaged with [Gradle]()
+Conscious.ly is a standard Android Application built with [Java 11](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html) and packaged with [Gradle](https://gradle.org/)
 
 ## Running the App
 
-You can run the app on your phone by simply installing the APK or by using an emulator (i.e [Genymotion]()). Note that running it on your phone may not work as well - it has only been thoroughly tested on the emulator
+You can run the app on your phone by simply installing the APK or by using an emulator (i.e [Genymotion](https://www.genymotion.com/)). Note that running it on your phone may not be as smooth - it has only been tested on the emulator
 
 ---
