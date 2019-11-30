@@ -1,0 +1,125 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:6:5-84
+	android:name
+		ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:6:22-81
+application
+ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:8:5-48:19
+MERGED from [com.android.support:appcompat-v7:24.1.1] E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.1.1] E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.1.1] E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.1.1] E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.volley:volley:1.1.1] E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\build\intermediates\exploded-aar\com.android.volley\volley\1.1.1\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:12:9-35
+	android:allowBackup
+		ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:10:9-42
+	android:theme
+		ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.shirin_pc.inputtime.MainActivity
+ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:14:9-20:19
+	android:name
+		ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:14:19-47
+activity#com.example.shirin_pc.inputtime.IntroSliderActivity
+ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:21:9-28:20
+	android:theme
+		ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:21:19-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:26:27-74
+service#com.example.shirin_pc.inputtime.FloatingViewService
+ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:29:9-32:40
+	android:enabled
+		ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:30:13-48
+service#com.example.shirin_pc.inputtime.Widget_App_Distract
+ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:33:9-36:40
+	android:enabled
+		ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:34:13-48
+service#com.example.shirin_pc.inputtime.WelcomeWidget
+ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:37:9-40:40
+	android:enabled
+		ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:39:13-35
+	android:exported
+		ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:38:13-42
+service#com.example.shirin_pc.inputtime.Widget_Finish_Time
+ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:41:9-44:40
+	android:enabled
+		ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:43:13-35
+	android:exported
+		ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:42:13-47
+activity#com.example.shirin_pc.inputtime.Distracted_List
+ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:46:9-53
+	android:name
+		ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:46:19-50
+activity#com.example.shirin_pc.inputtime.Skipt
+ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:47:9-52
+	android:name
+		ADDED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml:47:19-40
+uses-sdk
+INJECTED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:24.1.1] E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.1.1] E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.1.1] E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.1.1] E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-vector-drawable:24.1.1] E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.1.1] E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.volley:volley:1.1.1] E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\build\intermediates\exploded-aar\com.android.volley\volley\1.1.1\AndroidManifest.xml:7:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.1.1] E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Allproject\ANDROIDAPPLICATION\Conciously\Settimer\Final\MyApplication\app\src\main\AndroidManifest.xml

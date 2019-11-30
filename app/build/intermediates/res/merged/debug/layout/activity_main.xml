@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.shirin_pc.inputtime.MainActivity">
+
+    <EditText
+        android:id="@+id/edit_text_input"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:hint="Minutes"
+        android:inputType="number"
+        android:maxLength="4"
+
+        android:layout_above="@+id/text_view_countdown"
+        android:layout_alignRight="@+id/text_view_countdown"
+        android:layout_alignEnd="@+id/text_view_countdown" />
+
+    <Button
+        android:id="@+id/button_set"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Set"
+        android:layout_alignTop="@+id/button_start_pause"
+        android:layout_toRightOf="@+id/edit_text_input"
+        android:layout_toEndOf="@+id/edit_text_input"
+        android:background="@drawable/specialbutton"
+        android:textColor="@color/dot_active"/>
+
+    <TextView
+        android:id="@+id/text_view_countdown"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="00:00"
+        android:textColor="@android:color/black"
+        android:textSize="60sp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/button_start_pause"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="start"
+
+        android:background="@drawable/specialbutton"
+        android:textColor="@color/dot_active"
+
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="53dp" />
+
+    <Button
+        android:id="@+id/button_reset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="reset"
+        android:visibility="invisible"
+        tools:visibility="visible"
+        android:background="@drawable/specialbutton"
+        android:textColor="@color/dot_active"
+        android:layout_alignTop="@+id/button_start_pause"
+        android:layout_toLeftOf="@+id/text_view_countdown"
+        android:layout_toStartOf="@+id/text_view_countdown" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textColor="@android:color/black"
+        android:id="@+id/show_task"
+        android:layout_above="@+id/edit_text_input"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:gravity="center"
+        android:text="What would you like to do?"
+        android:textSize="20dp"
+        android:textColor="@android:color/black"
+        android:id="@+id/label_task"
+        android:layout_above="@+id/edit_text_input"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="47dp" />
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/input_task"
+android:textSize="15dp"
+        android:hint="Write your task here"
+        android:layout_above="@+id/edit_text_input"
+        android:layout_alignLeft="@+id/label_task" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:src="@drawable/profile1"
+        android:layout_above="@+id/label_task"
+        android:layout_alignRight="@+id/edit_text_input"
+        android:layout_alignEnd="@+id/edit_text_input"
+        android:layout_alignLeft="@+id/label_task"
+        android:layout_alignStart="@+id/label_task" />
+
+    <!--<Button-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="New Button"-->
+        <!--android:id="@+id/btn_test"-->
+        <!--android:layout_above="@+id/button_start_pause"-->
+        <!--android:layout_centerHorizontal="true" />-->
+
+
+    <!--<Button-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="loop_compare"-->
+        <!--android:id="@+id/loop_compare"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:layout_alignRight="@+id/text_view_countdown"-->
+        <!--android:layout_alignEnd="@+id/text_view_countdown" />-->
+
+
+</RelativeLayout>

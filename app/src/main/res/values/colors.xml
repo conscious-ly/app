@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="second">#AA4532</color>
+    <color name="slide_1_bg_color">#f64c73</color>
+    <color name="slide_2_bg_color">#20d2bb</color>
+    <color name="slide_3_bg_color">#3395ff</color>
+    <color name="slide_4_bg_color">#bb68e6</color>
+
+    <color name="dot_incative">#a3a3a3</color>
+    <color name="dot_active">#ffffff</color>
+    <color name="button">#04f404</color>
+    <color name="black">#343434</color>
+    <color name="brown">#d67a39</color>
+</resources>

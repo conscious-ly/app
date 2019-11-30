@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Consciously</string>
+    <string name="slide_1_title">Welcome to Consciously!</string>
+    <string name="slide_1_desc">The easiest way to not be distracted!</string>
+
+    <string name="slide_2_title">Set Your Goal</string>
+    <string name="slide_2_desc">Write your goal</string>
+
+    <string name="slide_3_title">Set Your Time</string>
+    <string name="slide_3_desc">Set the estimated time to finish your task</string>
+
+    <string name="slide_4_title">Distraction Applications</string>
+    <string name="slide_4_desc">Choose your application from a list that is always available for modification through a menu</string>
+
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="gotit">Got It</string>
+
+
+    <string-array name="slide_titles">
+        <item>@string/slide_1_title</item>
+        <item>@string/slide_2_title</item>
+        <item>@string/slide_3_title</item>
+        <item>@string/slide_4_title</item>
+    </string-array>
+
+
+    <string-array name="slide_descriptions">
+        <item>@string/slide_1_desc</item>
+        <item>@string/slide_2_desc</item>
+        <item>@string/slide_3_desc</item>
+        <item>@string/slide_4_desc</item>
+    </string-array>
+
+
+</resources>
